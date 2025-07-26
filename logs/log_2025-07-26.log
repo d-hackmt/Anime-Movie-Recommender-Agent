@@ -1,0 +1,9 @@
+2025-07-26 13:58:01,847 - INFO - Starting to build pipeline
+2025-07-26 13:58:01,867 - INFO - Data loaded and processed
+2025-07-26 13:58:02,833 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-26 13:59:32,630 - ERROR - Failed to build pipeline: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-07-26 14:02:21,264 - INFO - Starting to build pipeline
+2025-07-26 14:02:21,284 - INFO - Data loaded and processed
+2025-07-26 14:02:22,014 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-26 14:02:36,847 - INFO - Vector store built successfully
+2025-07-26 14:02:36,847 - INFO - Pipeline built successfully
