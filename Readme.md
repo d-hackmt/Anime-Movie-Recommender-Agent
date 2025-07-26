@@ -1,4 +1,7 @@
 
+<img width="728" height="364" alt="image" src="https://github.com/user-attachments/assets/811a7a70-68b3-4dc0-b3c1-4841e7e5cd4a" />
+
+
 
 pipeline - will be used to genereate responses , as a retriver file / recommender pipeline
 
