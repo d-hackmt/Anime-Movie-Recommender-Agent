@@ -1,2 +1,4 @@
 .env
-aenv
+aenv/
+logs/
+ANIME_RECOMMENDER.egg-info/
